@@ -1,1 +1,4 @@
-7BounceStripboard
+# 7BounceStripboard
+WORK IN PROGRESS
+UNVERIFIED
+IT DOES NOT FUNCTION!
